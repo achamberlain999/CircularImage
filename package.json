@@ -1,0 +1,30 @@
+{
+  "name": "circularimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achamberlain999/CircularImage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achamberlain999/CircularImage/issues"
+  },
+  "homepage": "https://github.com/achamberlain999/CircularImage#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp-babel": "^8.0.0",
+    "sharp": "0.29.2",
+    "gulp": "2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
